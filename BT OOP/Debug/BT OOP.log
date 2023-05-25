@@ -1,0 +1,3 @@
+﻿  Sourcdsae3.cpp
+Sourcdsae3.obj : error LNK2005: _main already defined in Congtyx.obj
+C:\BT OOP\Debug\BT cb kt cuoi ki ktlt.exe : fatal error LNK1169: one or more multiply defined symbols found
